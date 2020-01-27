@@ -16,7 +16,7 @@ This repository contains code and data included in:
   - `scripts/mtags_pipeline/mtags_consensus_tax_v2.py`: Python function to make consensus taxonomy from the above script's output.
   - `scripts/mtags_pipeline/make_otu_table.py`: auxiliary Python function to build an OTU table out from the above script's output.
 
-### Data processing and analysis - R scripts
+### Data processing and analysis (R scripts)
 
   - `scripts/data_analysis/1.1-mtags_piconano_taxlevels.R`: assessment of mTags taxonomic resolution.
   - `scripts/data_analysis/1.2-mtags_piconano_diversity.R`: diversity as seen by mTags in pico and nano fraction.
