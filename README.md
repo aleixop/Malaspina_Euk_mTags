@@ -1,5 +1,7 @@
 # A metagenomic assessment of microbial eukaryotic diversity in the global ocean
 
+[![DOI](https://zenodo.org/badge/236508506.svg)](https://zenodo.org/badge/latestdoi/236508506)
+
 This repository contains code and data included in:
 
 --------
