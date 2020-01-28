@@ -58,4 +58,6 @@ In order to extract 18S-V4 mTags, a 92% clustered version of *eukaryotesV4* was 
 
 ## Raw data
 
-  - Amplicons raw data can be found at European Nucleotide Archive under accession number [PRJEB23771](https://www.ebi.ac.uk/ena/data/view/PRJEB23771).
+  - V4 amplicons: raw data can be found at European Nucleotide Archive under accession number [PRJEB23771](https://www.ebi.ac.uk/ena/data/view/PRJEB23771).
+  - V9 amplicons: raw data can be found at European Nucleotide Archive under accession number [PRJEB36469](https://www.ebi.ac.uk/ena/data/view/PRJEB36469).
+
