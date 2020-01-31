@@ -59,8 +59,8 @@ figureS3 <-
                    hjust=0, 
                    parse=TRUE,
                    se = FALSE) +
-  xlab('\nNumber of miTags (BLAST)') +
-  ylab('Number of miTags (HMM)\n') +
+  xlab('\nNumber of mTags (BLAST)') +
+  ylab('Number of mTags (HMM)\n') +
   geom_blank(data = hmm_table %>% 
                group_by(Supergroup) %>% 
                summarise(max = max(c(noHMM,
