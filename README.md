@@ -5,7 +5,7 @@
 This repository contains code and data included in:
 
 --------
-**Obiol A., Giner C.R., Sánchez P., Duarte C.M., Acinas S.G., Massana R.** (2020). *A metagenomic assessment of microbial eukaryotic diversity in the global ocean*. Submitted to Mol. Ecol. Resour.
+Obiol A., Giner C.R., Sánchez P., Duarte C.M., Acinas S.G., Massana R. (in press). **A metagenomic assessment of microbial eukaryotic diversity in the global ocean**. Molecular Ecology Resources.
 
 --------
 
