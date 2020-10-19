@@ -110,4 +110,4 @@ rm ${FASTA_OUT_DIR}/${SAMPLE}.nolabel.fna
 
 #Summary
 
-echo "SUMMARY SAMPLE ${SAMPLE}; Initial seqs: $seqs_orig/1.3: $seqs_filtered; mTags retrieved: $mtags_fna_label"
+echo "SUMMARY SAMPLE ${SAMPLE}; Initial seqs: $seqs_original; Filtered seqs: $seqs_filtered; mTags retrieved: $mtags_fna_label"
