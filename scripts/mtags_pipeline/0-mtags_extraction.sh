@@ -80,7 +80,7 @@ awk '{print $1}' ${BLAST_OUT_DIR}/${SAMPLE}.blast | sort -u > ${BLAST_OUT_DIR}/$
 date
 echo '# Extracting sequences with seqtk'
 
-${seqtk} \
+seqtk \
 subseq ${FASTA_OUT_DIR}/${SAMPLE}.temp.fasta \
 ${BLAST_OUT_DIR}/${SAMPLE}.hits > ${FASTA_OUT_DIR}/${SAMPLE}.nolabel.fna
 
