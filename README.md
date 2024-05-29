@@ -9,6 +9,10 @@ Obiol, A., Giner, C.R., Sánchez, P., Duarte, C.M., Acinas, S.G. and Massana, R.
 
 --------
 
+## New version of mTags pipeline
+
+We created a new mTags workflow from scratch to make it easier to run. This can be found [here](https://github.com/aleixop/mtags_snakemake).
+
 ## Scripts
 
 ### mTags extraction and classification pipeline
